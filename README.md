@@ -13,4 +13,4 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ## 炉石地址 查找自己本地电脑炉石exe地址替换 ps1文件中的 *$HearthstonePath* 变量
 $HearthstonePath = "G:\Blizzard\OverWatch\Hearthstone\Hearthstone.exe"
 
-## 下载 HearthstoneOffline.ps1 直接右键运行 powershell
+## 下载 HearthstoneOffline.ps1 直接右键运行
